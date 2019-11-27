@@ -1,0 +1,2000 @@
+1574842146068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileFJMWli"
+1574842149330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574842149330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574842149331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574842149331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574842150247	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574842150288	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574842154893	Marionette	INFO	Listening on port 56049
+1574842154950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+1574842162599	Marionette	INFO	Stopped listening on port 56049
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13180[Child 14400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11172, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574842276190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofile8aJ0W9"
+1574842278064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574842278064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574842278064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574842278064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574842278758	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574842278808	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574842282706	Marionette	INFO	Listening on port 56108
+1574842282935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+1574842291051	Marionette	INFO	Stopped listening on port 56108
+[Child 14344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14344, Chr[Parent 13992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14572, Chrom[Parent 13992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16188, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574842301961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofile94EfPU"
+1574842303486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574842303486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574842303486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574842303486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574842304196	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574842304245	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574842307417	Marionette	INFO	Listening on port 56144
+1574842307533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+1574842313727	Marionette	INFO	Stopped listening on port 56144
+[Parent 6252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_ch[Parent 6252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9600, Chrome_ChildThread] WARNING: pipe e
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574842334459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileQlU16t"
+1574842337189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574842337189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574842337190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574842337190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574842337903	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574842337945	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574842342490	Marionette	INFO	Listening on port 56177
+1574842342839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+1574842348930	Marionette	INFO	Stopped listening on port 56177
+[Child 11208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11208, Chrome_ChildThread] WARNING: pipe error: 109: fi[Child 4568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4568, Chrome_ChildThread] WARNING: pipe error: [Parent 14880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10692, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13124, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574842500085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileSFpXIF"
+1574842501649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574842501649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574842501649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574842501649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574842502363	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574842502405	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574842505743	Marionette	INFO	Listening on port 56250
+1574842505757	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:403:11
+close@resource://gre/modules/ExtensionContent.jsm:913:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:998:19
+observe@resource://gre/modules/ExtensionContent.jsm:1016:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:403:11
+close@resource://gre/modules/ExtensionContent.jsm:913:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:998:19
+observe@resource://gre/modules/ExtensionContent.jsm:1016:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheet]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:414:13
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:414:13
+]]
+[Child 6124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6124, C[Parent 3604, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13892, Chrome_ChildTh[Parent 3604, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1574842942092	Marionette	INFO	Stopped listening on port 56250
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+47	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574842724659	Marionette	INFO	Stopped listening on port 56297
+[Child 8916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350119,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10044, Chrome_C[GPU 1160, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574842752797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileO79Eog"
+1574842754347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574842754347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574842754347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574842754347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574842755062	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574842755113	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574842758307	Marionette	INFO	Listening on port 56342
+1574842758370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574842764685	Marionette	INFO	Stopped listening on port 56342
+[Parent 9524, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Child 14060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_[Child 1808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1808, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3532, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574842788336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileTkoRXz"
+1574842790219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574842790219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574842790220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574842790220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574842791005	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574842791059	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574842794445	Marionette	INFO	Listening on port 56373
+1574842794516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574842800869	Marionette	INFO	Stopped listening on port 56373
+[Child 2944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2944, Chrome_ChildThread] W[Child 14704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574842893201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileN3SkT7"
+1574842894680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574842894680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574842894680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574842894680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574842895437	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574842895488	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574842898745	Marionette	INFO	Listening on port 56410
+1574842898763	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:403:11
+close@resource://gre/modules/ExtensionContent.jsm:913:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:998:19
+observe@resource://gre/modules/ExtensionContent.jsm:1016:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:403:11
+close@resource://gre/modules/ExtensionContent.jsm:913:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:998:19
+observe@resource://gre/modules/ExtensionContent.jsm:1016:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheet]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:414:13
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup/<@resource://gre/modules/ExtensionContent.jsm:414:13
+]]
+[Child 1648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1574842942483	Marionette	INFO	Stopped listening on port 56410
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7580, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574843213823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofile7oLBNq"
+1574843217682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574843217682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574843217682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574843217682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574843218444	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574843218496	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574843223364	Marionette	INFO	Listening on port 56460
+1574843223498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574843230432	Marionette	INFO	Stopped listening on port 56460
+[Parent 12296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10220, Chrome_ChildThread] WARNING: pipe error: 10[Child 8340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8340, C[Child 6508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6508, Chrome_ChildThread] WARNING: pip
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14576, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574843261025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofilerHaEgt"
+1574843263022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574843263022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574843263023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574843263023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574843264425	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574843264502	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574843267937	Marionette	INFO	Listening on port 56504
+1574843268295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574843275770	Marionette	INFO	Stopped listening on port 56504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574844121785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofilefffGP7"
+1574844124794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574844124795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574844124795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574844124795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574844125936	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574844125969	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574844130506	Marionette	INFO	Listening on port 56593
+1574844130668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574844136939	Marionette	INFO	Stopped listening on port 56593
+[Parent 5776, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12824, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11808, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574844295268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileFRtYA7"
+1574844296856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574844296856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574844296856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574844296856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574844297723	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574844297766	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574844301468	Marionette	INFO	Listening on port 56734
+1574844301938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574844308053	Marionette	INFO	Stopped listening on port 56734
+[Child 14236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/[Parent 16156, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13956, Chr[GPU 13252, Chrome_ChildThread] WARNING: pip
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e error: 109: file z:/task_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574844505029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileB7m9WC"
+1574844507990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574844507990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574844507990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574844507990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574844508742	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574844508775	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574844514022	Marionette	INFO	Listening on port 56787
+1574844514483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574844520616	Marionette	INFO	Stopped listening on port 56787
+[Child 14200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12992, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574844564637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileRQyxEl"
+1574844566472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574844566473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574844566473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574844566473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574844567223	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574844567258	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574844570561	Marionette	INFO	Listening on port 56829
+1574844570778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574844577252	Marionette	INFO	Stopped listening on port 56829
+[Child 15824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/ch[Parent 8240, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8896, Chrome_ChildThread] WARN[GPU 81
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+96, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574844591596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofilei6l8Yk"
+1574844593266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574844593266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574844593267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574844593267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574844594016	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574844594051	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574844597391	Marionette	INFO	Listening on port 56863
+1574844597830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574844604401	Marionette	INFO	Stopped listening on port 56863
+[Child 12156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/sr[Child 5096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5096, Chrome_ChildThre[Child 8180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8180, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14564, Chrome_ChildThread] WARNING
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574844614560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofilegKEFLq"
+1574844616340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574844616340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574844616341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574844616341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574844617207	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574844617254	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574844620583	Marionette	INFO	Listening on port 56896
+1574844620762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574844628621	Marionette	INFO	Stopped listening on port 56896
+[Parent 2816, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14996, Chrom[Parent 2816, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16336, Chrome_ChildTh
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9532, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574845419773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileI4W5mq"
+1574845422907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574845422907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574845422907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574845422908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574845423678	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574845423712	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574845428327	Marionette	INFO	Listening on port 57095
+1574845428671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574845434942	Marionette	INFO	Stopped listening on port 57095
+[Child 15036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13596, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5576, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574845563511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileKGGZ5R"
+1574845565251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574845565251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574845565251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574845565251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574845566031	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574845566082	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574845569406	Marionette	INFO	Listening on port 57172
+1574845569698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574845575971	Marionette	INFO	Stopped listening on port 57172
+[Parent 13360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12716, Chrome_ChildThread] W
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16336, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574845597811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileQp4jKi"
+1574845599329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574845599329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574845599329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574845599329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574845600064	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574845600096	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574845603490	Marionette	INFO	Listening on port 57204
+1574845603968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574845609846	Marionette	INFO	Stopped listening on port 57204
+[Child 15996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 159[Child 12988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12988, Chrome_ChildThread] [Parent 11208, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15220, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4536, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574845693773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofile5XFJej"
+1574845696558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574845696559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574845696559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574845696559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574845697322	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574845697354	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574845702057	Marionette	INFO	Listening on port 57242
+1574845702185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574845708487	Marionette	INFO	Stopped listening on port 57242
+[Child 13244, Chrome_ChildThre
+###!!! [Child][MessageChannel] Error: (msgtype=0x350119,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+ad] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BD,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+[Child 13[Parent 2908, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14644, Chrome_ChildThread] WARN
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10876, Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574845835884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileJbdkqu"
+1574845837956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574845837957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574845837957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574845837957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574845838703	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574845838736	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574845842261	Marionette	INFO	Listening on port 57292
+1574845842587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574845848959	Marionette	INFO	Stopped listening on port 57292
+[Child 14908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14908, Chrome_ChildThread] WARNING: pipe[Parent 15416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12088, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8772, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574845983193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\loc-asb1\\AppData\\Local\\Temp\\rust_mozprofileyVZPKl"
+1574845986098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574845986098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574845986098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574845986098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574845986850	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574845986905	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574845991572	Marionette	INFO	Listening on port 57332
+1574845991653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574845998065	Marionette	INFO	Stopped listening on port 57332
+[Child 508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 508, C[Child 14164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1968, Chrome_Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11512, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574846841326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofilek20lRW"
+1574846847254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574846847254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574846847255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574846847255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574846849220	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574846849309	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+[Child 11928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1574846860950	Marionette	INFO	Listening on port 57447
+1574846861268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+1574846872840	Marionette	INFO	Stopped listening on port 57447
+[Child 10024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574846928865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileusXdIv"
+1574846935633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574846935633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574846935633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574846935633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574846937179	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574846937240	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574846948275	Marionette	INFO	Listening on port 57510
+1574846948765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+1574846956850	Marionette	INFO	Stopped listening on port 57510
+[Parent 16248, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4716, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574848058588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileKgc0So"
+1574848062132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574848062132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574848062132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574848062132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574848063093	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574848063143	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574848068361	Marionette	INFO	Listening on port 57851
+1574848068639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+1574848074356	Marionette	INFO	Stopped listening on port 57851
+[Parent 6984, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14240, Chrome_Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574848106773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofilerFmj1i"
+1574848111398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574848111398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574848111399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574848111399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574848112105	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574848112136	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574848118654	Marionette	INFO	Listening on port 57893
+1574848119122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+JavaScript warning: https://picular.co/gtag.js, line 71: unreachable code after return statement
+1574848124801	Marionette	INFO	Stopped listening on port 57893
+[Child 6500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6500, Chrome_ChildTh[Parent 11692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15212, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10520, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574848168159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofilecJnPVk"
+1574848171490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574848171491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574848171491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574848171491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574848172186	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574848172217	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574848177274	Marionette	INFO	Listening on port 57957
+1574848177762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574848183399	Marionette	INFO	Stopped listening on port 57957
+[Child 16116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3120, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6048, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574848627177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofile3xErwP"
+1574848631819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574848631820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574848631820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574848631820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574848632510	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574848632554	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574848638817	Marionette	INFO	Listening on port 58038
+1574848639025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574848644842	Marionette	INFO	Stopped listening on port 58038
+[Child 5040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9964, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6404, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574848688783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileNMgg5i"
+1574848692089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574848692089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574848692089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574848692090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574848692774	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574848692811	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574848697731	Marionette	INFO	Listening on port 58080
+1574848697748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574848703639	Marionette	INFO	Stopped listening on port 58080
+[Parent 7248, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 224, Chrom[Child 7964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7964, Chrome_Child[Parent 7248, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 232, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574848844673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileQWoTv4"
+1574848849283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574848849283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574848849283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574848849283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574848849988	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574848850019	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574848856452	Marionette	INFO	Listening on port 58169
+1574848856492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574848863166	Marionette	INFO	Stopped listening on port 58169
+[Parent 12124, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5180, Chrome_ChildThread] 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574848877538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofile0xfMBP"
+1574848882202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574848882203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574848882203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574848882203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574848883045	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574848883077	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574848889555	Marionette	INFO	Listening on port 58224
+1574848889900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574848896969	Marionette	INFO	Stopped listening on port 58224
+[Child 15524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15524, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11544, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574849410481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileZdiyTF"
+1574849415118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574849415118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574849415118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574849415118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574849415802	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574849415834	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574849422010	Marionette	INFO	Listening on port 58379
+1574849422263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574849428318	Marionette	INFO	Stopped listening on port 58379
+[Child 3400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tas[Parent 10008, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16352, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11900, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574851796768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileuecMFf"
+1574851801439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574851801439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574851801439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574851801439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574851802134	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574851802164	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574851808526	Marionette	INFO	Listening on port 58775
+1574851808582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574851814631	Marionette	INFO	Stopped listening on port 58775
+[Parent 10028, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/buil[Child 14992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14992, Chrome_[Parent 10028, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10840, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574851953234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileJy4tT8"
+1574851956562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574851956562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574851956562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574851956562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574851957249	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574851957278	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574851962082	Marionette	INFO	Listening on port 58928
+1574851962181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574851968153	Marionette	INFO	Stopped listening on port 58928
+[Parent 15716, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350119,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15716, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15716, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14644, Chrome_C[GPU 13172, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rome_ChildThread] WARNIN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852008789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileVR5OhO"
+1574852013361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852013361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852013361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852013361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852014064	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852014094	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852020276	Marionette	INFO	Listening on port 58977
+1574852020642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852026386	Marionette	INFO	Stopped listening on port 58977
+[Child 5380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5380, Chrome_[Child 12632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1[Parent 10088, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3300, Chrome_Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1884, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852073764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofiletqORMJ"
+1574852077061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852077062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852077062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852077062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852077746	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852077777	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852082618	Marionette	INFO	Listening on port 59019
+1574852082755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852088922	Marionette	INFO	Stopped listening on port 59019
+[Child 3192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome[Parent 6040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15860, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13100, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852118676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofilef7GD2C"
+1574852121989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852121989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852121990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852121990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852122687	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852122719	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852127730	Marionette	INFO	Listening on port 59065
+1574852128239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852133749	Marionette	INFO	Stopped listening on port 59065
+[Child 1972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1972, Chrome_Child[Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6420, Chrome_ChildThread] WARNING: pipe error: [Parent 8456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8516, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6488, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852159877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileZ1gtp3"
+1574852163159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852163159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852163159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852163159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852163854	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852163883	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852168854	Marionette	INFO	Listening on port 59111
+1574852168864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852174957	Marionette	INFO	Stopped listening on port 59111
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350119,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 13696, Chrome_ChildThread] [Child 9596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9596, Chrome_ChildThread] WARNI[Parent 16160, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14100, Chrom[GPU 14216, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852185890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileSaU71h"
+1574852189267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852189267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852189267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852189267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852189995	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852190028	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852195196	Marionette	INFO	Listening on port 59157
+1574852195453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852201764	Marionette	INFO	Stopped listening on port 59157
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350119,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 1620, Chrome_Child[Child 6296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task[Parent 8784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8896, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852248539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofile7z940a"
+1574852253107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852253107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852253107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852253107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852253789	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852253821	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852259931	Marionette	INFO	Listening on port 59205
+1574852260378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852266064	Marionette	INFO	Stopped listening on port 59205
+[Child 12656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12656[Parent 14508, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14884, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11072, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852293587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileNhxuL3"
+1574852296872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852296872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852296873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852296873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852297563	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852297595	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852302789	Marionette	INFO	Listening on port 59259
+1574852303157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852308979	Marionette	INFO	Stopped listening on port 59259
+[Parent 12776, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/c
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7412, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852323115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileaSzHvQ"
+1574852326409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852326409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852326409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852326409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852327138	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852327171	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852332299	Marionette	INFO	Listening on port 59306
+1574852332722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852338978	Marionette	INFO	Stopped listening on port 59306
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350119,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 1[Child 15832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15356, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12344, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15976, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852379363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofilegwmOsV"
+1574852382692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852382692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852382692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852382692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852383396	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852383428	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852388368	Marionette	INFO	Listening on port 59355
+1574852388406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852394699	Marionette	INFO	Stopped listening on port 59355
+[Child 15992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15376, Chrome_[Parent 13104, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2696, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6820, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852439936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofilewvXdH4"
+1574852443167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852443167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852443167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852443168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852443840	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852443869	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852448806	Marionette	INFO	Listening on port 59403
+1574852448915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852454966	Marionette	INFO	Stopped listening on port 59403
+[Parent 3716, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11620, Chrome_ChildThread] W[Parent 3716, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8680, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13028, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852486982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofile2GpnA5"
+1574852491569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852491569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852491569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852491569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852492258	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852492293	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852498542	Marionette	INFO	Listening on port 59449
+1574852498796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852504508	Marionette	INFO	Stopped listening on port 59449
+[Parent 3760, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15452, Chrome_ChildThread] WARN
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5400, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574852526913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asb1\\AppData\\Local\\Temp\\rust_mozprofileayyjT9"
+1574852531522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574852531522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574852531523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574852531523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574852532212	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+1574852532245	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:228:15) JS Stack trace: awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:746:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:70:29
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 253: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1574852537311	Marionette	INFO	Listening on port 59503
+1574852537639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574852543288	Marionette	INFO	Stopped listening on port 59503
+[Parent 8244, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [Parent 8244, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13192, Chrome_ChildThread[Parent 8244, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571241783/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2696, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13384, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
