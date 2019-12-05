@@ -54,8 +54,8 @@ def main(query, local = False):
         colours_prob.append(rgb_prob)
     print(colours_prob)
 
-    data = picular.rgb_to_HSB(colours_prob)
-    nano.display_scene(data)
+    data = picular.rgb_to_HSB(colours_prob[:4])
+    nano.business_ambient(data)
 
     plt.axis("off")
     plt.imshow(bar)
@@ -65,5 +65,5 @@ def main(query, local = False):
 
 if __name__ == "__main__":
 
-    main(query='swisscom logo' + ' png')
+    main(query='swisscom logo')
 
