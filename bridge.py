@@ -2,10 +2,10 @@ import requests
 import json
 import sys
 
-class Nanoleaf:
+class Nanoleaf2:
 
-    auth_token = '7x2MFFJM81j1aDgWGjDJm3aO5RHmCb6L'
-    ip_adress = 'http://192.168.178.30:16021'
+    auth_token = 'wzX2GHF9T088yTSZnFvIIOO7CrPX06ye'
+    ip_adress = 'http://192.168.178.31:16021'
 
     def start_christmas_rythm(self):
         url = "{}/api/v1/{}/effects".format(self.ip_adress, self.auth_token)

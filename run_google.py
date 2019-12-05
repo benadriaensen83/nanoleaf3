@@ -5,6 +5,7 @@ from dominant_colours import Colours
 import matplotlib.pyplot as plt
 from colours import Picular
 from machine_room import Nanoleaf
+from bridge import Nanoleaf2
 from Serpapi import Serpapi
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
@@ -19,6 +20,7 @@ def main(query, local = False):
     colours = Colours()
     picular = Picular()
     nano = Nanoleaf()
+    nano2 = Nanoleaf2()
     serpapi = Serpapi()
 
     if local:
@@ -56,6 +58,7 @@ def main(query, local = False):
 
     data = picular.rgb_to_HSB(colours_prob)
     nano.business_ambient(data)
+    nano2.business_ambient(data)
 
     plt.axis("off")
     plt.imshow(bar)
@@ -63,5 +66,5 @@ def main(query, local = False):
 
 if __name__ == "__main__":
 
-    main(query='swisscom logo')
+    main(query= 'berner fachhochschule logo')
 
