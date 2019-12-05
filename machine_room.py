@@ -30,11 +30,9 @@ class Nanoleaf:
 
     def business_ambient(self, colours):
 
-
             url = "http://192.168.178.30:16021/api/v1/7x2MFFJM81j1aDgWGjDJm3aO5RHmCb6L/effects/write"
 
-            payload = "{\"write\" : {\r\n\t\"command\" : \"display\",     \r\n\t\"version\": \"2.0\",\r\n    \"animType\": \"plugin\",\r\n    \"colorType\": \"HSB\",\r\n    \"palette\": [\r\n        {\r\n            \"hue\": 200,\r\n            \"saturation\": 100,\r\n            \"brightness\": 99,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 182,\r\n            \"saturation\": 100,\r\n            \"brightness\": 100,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 125,\r\n            \"saturation\": 100,\r\n            \"brightness\": 93,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 62,\r\n            \"saturation\": 100,\r\n            \"brightness\": 100,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 31,\r\n            \"saturation\": 100,\r\n            \"brightness\": 100,\r\n            \"probability\": 0.0\r\n        }\r\n    ],\r\n    \"pluginType\": \"color\",\r\n    \"pluginUuid\": \"70b7c636-6bf8-491f-89c1-f4103508d642\",\r\n    \"pluginOptions\": [\r\n         {\r\n            \"name\": \"delayTime\",\r\n            \"value\": 0\r\n        },\r\n        {\r\n            \"name\": \"mainColorProb\",\r\n            \"value\": 79.99\r\n        },\r\n        {\r\n            \"name\": \"transTime\",\r\n            \"value\": 50\r\n        }\r\n    ],\r\n    \"hasOverlay\": false}}"
-
+            payload = "{\"write\" : {\r\n\t\"command\" : \"display\",     \r\n\t\"version\": \"2.0\",\r\n    \"animType\": \"plugin\",\r\n    \"colorType\": \"HSB\",\r\n    \"palette\": [\r\n        {\r\n            \"hue\": 200,\r\n            \"saturation\": 100,\r\n            \"brightness\": 99,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 182,\r\n            \"saturation\": 100,\r\n            \"brightness\": 100,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 125,\r\n            \"saturation\": 100,\r\n            \"brightness\": 93,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 62,\r\n            \"saturation\": 100,\r\n            \"brightness\": 100,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 31,\r\n            \"saturation\": 100,\r\n            \"brightness\": 100,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 2,\r\n            \"saturation\": 100,\r\n            \"brightness\": 100,\r\n            \"probability\": 0.0\r\n        },\r\n        {\r\n            \"hue\": 307,\r\n            \"saturation\": 100,\r\n            \"brightness\": 100,\r\n            \"probability\": 0.0\r\n        }\r\n    ],\r\n    \"pluginType\": \"color\",\r\n    \"pluginUuid\": \"70b7c636-6bf8-491f-89c1-f4103508d642\",\r\n    \"pluginOptions\": [\r\n         {\r\n            \"name\": \"delayTime\",\r\n            \"value\": 0\r\n        },\r\n        {\r\n            \"name\": \"mainColorProb\",\r\n            \"value\": 79.99\r\n        },\r\n        {\r\n            \"name\": \"transTime\",\r\n            \"value\": 50\r\n        }\r\n    ],\r\n    \"hasOverlay\": false}}"
             data = json.loads(payload)
             palette = data['write']['palette']
 
@@ -42,7 +40,7 @@ class Nanoleaf:
                 palette[i]['hue'] = colours[i]['hue']
                 palette[i]['brightness'] = colours[i]['brightness']
                 palette[i]['saturation'] = colours[i]['saturation']
-                palette[i]['probability'] = colours[i]['probability']
+                palette[i]['probability'] = 0
 
             payload = json.dumps(data, indent=2)
             print(payload)

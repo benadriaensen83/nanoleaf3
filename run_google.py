@@ -54,14 +54,12 @@ def main(query, local = False):
         colours_prob.append(rgb_prob)
     print(colours_prob)
 
-    data = picular.rgb_to_HSB(colours_prob[:4])
+    data = picular.rgb_to_HSB(colours_prob)
     nano.business_ambient(data)
 
     plt.axis("off")
     plt.imshow(bar)
     plt.show()
-
-
 
 if __name__ == "__main__":
 
