@@ -4,7 +4,7 @@ from adobe import AdobeStock
 from dominant_colours import Colours
 import matplotlib.pyplot as plt
 from colours import Picular
-from nanoleaf import Nanoleaf
+from machine_room import Nanoleaf
 from Serpapi import Serpapi
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
@@ -55,7 +55,7 @@ def main(query, local = False):
     print(colours_prob)
 
     data = picular.rgb_to_HSB(colours_prob)
-    # nano.display_scene(data)
+    nano.display_scene(data)
 
     plt.axis("off")
     plt.imshow(bar)
@@ -65,5 +65,5 @@ def main(query, local = False):
 
 if __name__ == "__main__":
 
-    main(query='swisscom logo')
+    main(query='swisscom logo' + ' png')
 
