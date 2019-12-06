@@ -64,5 +64,5 @@ def main(query, local = False):
 
 if __name__ == "__main__":
 
-    main(query= 'vultures joh')
+    main(query= 'summertime')
 
