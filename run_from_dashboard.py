@@ -27,20 +27,21 @@ class run_from_dashboard:
         with open('track_name.json', 'rb') as f:
             f = f.read()
             f = json.loads(f)
-            track_name_arch = (f['0']['0'])
+
+        track_name_arch = (f['0']['0'])
         print(track_name_arch)
         print(track_name_string)
 
-        if 'christmas' in track_name_string and not track_name_arch == track_name_string:
-            df = pd.DataFrame(track_name)
-            df.to_json('track_name.json')
-            run_google.christmas()
+        if not track_name_string == track_name_arch:
 
-        if not track_name_arch == track_name_string:
-            df = pd.DataFrame(track_name)
-            df.to_json('track_name.json')
+            if 'christmas' in track_name_string:
+                run_google.christmas()
+            else:
+                df = pd.DataFrame(track_name)
+                df.to_json('track_name.json')
+                run_google.main(track_name_string + 'colours')
 
-            run_google.main(track_name_string + 'colours')
+
         time.sleep(5)
         dashboard.main()
 
