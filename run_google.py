@@ -53,7 +53,13 @@ def main(query, local = False):
         colours_prob.append(rgb_prob)
     print(colours_prob)
 
+
     data = picular.rgb_to_HSB(colours_prob)
+    if 'christmas' in query:
+        print('christmas in song')
+        nano.start_christmas_rythm(data)
+        nano2.start_christmas_rythm(data)
+
     nano.business_ambient(data)
     nano2.business_ambient(data)
 
