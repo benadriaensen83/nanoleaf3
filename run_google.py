@@ -9,7 +9,6 @@ from bridge import Nanoleaf2
 from Serpapi import Serpapi
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-3
 import urllib
 
 
@@ -64,5 +63,5 @@ def main(query, local = False):
 
 if __name__ == "__main__":
 
-    main(query= 'summertime')
+    main(query= 'swisscom logo')
 
