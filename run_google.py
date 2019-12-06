@@ -20,6 +20,7 @@ def main(query, local = False):
     nano2 = Nanoleaf2()
     serpapi = Serpapi()
 
+
     if local:
         pass
     else:
@@ -55,10 +56,7 @@ def main(query, local = False):
 
 
     data = picular.rgb_to_HSB(colours_prob)
-    if 'christmas' in query:
-        print('christmas in song')
-        nano.start_christmas_rythm(data)
-        nano2.start_christmas_rythm(data)
+
 
     nano.business_ambient(data)
     nano2.business_ambient(data)
@@ -66,6 +64,13 @@ def main(query, local = False):
     plt.axis("off")
     plt.imshow(bar)
     plt.show()
+
+def christmas():
+    nano = Nanoleaf()
+    nano2 = Nanoleaf2()
+    print('christmas in song')
+    nano.start_christmas_rythm()
+    nano2.start_christmas_rythm()
 
 if __name__ == "__main__":
 
