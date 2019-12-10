@@ -4,8 +4,8 @@ import sys
 
 class Nanoleaf3:
 
-    auth_token = 'wzX2GHF9T088yTSZnFvIIOO7CrPX06ye'
-    ip_adress = 'http://192.168.178.31:16021'
+    auth_token = 'IjPg5n5c53KZoblsFg098tbHUYbY117b'
+    ip_adress = 'http://192.168.178.36:16021'
 
     def start_christmas_rythm(self):
         url = "{}/api/v1/{}/effects".format(self.ip_adress, self.auth_token)

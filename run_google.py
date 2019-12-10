@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from colours import Picular
 from machine_room import Nanoleaf
 from bridge import Nanoleaf2
+from freeboard import Nanoleaf3
 from Serpapi import Serpapi
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
@@ -18,6 +19,7 @@ def main(query, local = False):
     picular = Picular()
     nano = Nanoleaf()
     nano2 = Nanoleaf2()
+    nano3 = Nanoleaf3()
     serpapi = Serpapi()
 
 
@@ -60,6 +62,7 @@ def main(query, local = False):
 
     nano.business_ambient(data)
     nano2.business_ambient(data)
+    nano3.business_ambient(data)
 
     plt.axis("off")
     plt.imshow(bar)
@@ -68,9 +71,11 @@ def main(query, local = False):
 def christmas():
     nano = Nanoleaf()
     nano2 = Nanoleaf2()
+    nano3 = Nanoleaf3()
     print('christmas in song')
     nano.start_christmas_rythm()
     nano2.start_christmas_rythm()
+    nano3.start_christmas_rythm()
 
 if __name__ == "__main__":
 
