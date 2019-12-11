@@ -79,5 +79,5 @@ def christmas():
 
 if __name__ == "__main__":
 
-    main(query= 'swisscom logo')
+    main(query= 'blade runner desert')
 
