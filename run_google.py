@@ -79,5 +79,5 @@ def christmas():
 
 if __name__ == "__main__":
 
-    main(query= 'blade runner desert')
+    main(query= 'brazil')
 
